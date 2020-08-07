@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.5" 
+	xmlns="http://java.sun.com/xml/ns/javaee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee 
+	http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+  <display-name></display-name>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AllInfoListServlet</servlet-name>
+    <servlet-class>com.wit.servlets.AllInfoListServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AllMthingListServlet</servlet-name>
+    <servlet-class>com.wit.servlets.AllMthingListServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TnumInfoListServlet</servlet-name>
+    <servlet-class>com.wit.servlets.TnumInfoListServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TypeMthingListServlet</servlet-name>
+    <servlet-class>com.wit.servlets.TypeMthingListServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>NoInfoListServlet</servlet-name>
+    <servlet-class>com.wit.servlets.NoInfoListServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>IngInfoListServlet</servlet-name>
+    <servlet-class>com.wit.servlets.IngInfoListServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>YesInfoListServlet</servlet-name>
+    <servlet-class>com.wit.servlets.YesInfoListServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>NoMthingServlet</servlet-name>
+    <servlet-class>com.wit.servlets.NoMthingServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>IngMthingListServlet</servlet-name>
+    <servlet-class>com.wit.servlets.IngMthingListServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>YesMthingListServlet</servlet-name>
+    <servlet-class>com.wit.servlets.YesMthingListServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>MthingUpdateServlet</servlet-name>
+    <servlet-class>com.wit.servlets.MthingUpdateServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SignalUpdateServlet</servlet-name>
+    <servlet-class>com.wit.servlets.SignalUpdateServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>MthingAddServlet</servlet-name>
+    <servlet-class>com.wit.servlets.MthingAddServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>MthingDeleteServlet</servlet-name>
+    <servlet-class>com.wit.servlets.MthingDeleteServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UserAddServlet</servlet-name>
+    <servlet-class>com.wit.servlets.UserAddServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UserListServlet</servlet-name>
+    <servlet-class>com.wit.servlets.UserListServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>SnumUserListServlet</servlet-name>
+    <servlet-class>com.wit.servlets.SnumUserListServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UserUpdateServlet</servlet-name>
+    <servlet-class>com.wit.servlets.UserUpdateServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UserDeleteServlet</servlet-name>
+    <servlet-class>com.wit.servlets.UserDeleteServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>LoginServlet</servlet-name>
+    <servlet-class>com.wit.servlets.LoginServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AdmUpdateUserServlet</servlet-name>
+    <servlet-class>com.wit.servlets.AdmUpdateUserServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ApplyServlet</servlet-name>
+    <servlet-class>com.wit.servlets.ApplyServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TimeMthingListServlet</servlet-name>
+    <servlet-class>com.wit.servlets.TimeMthingListServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TimeInfoListServlet</servlet-name>
+    <servlet-class>com.wit.servlets.TimeInfoListServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>TypeInfoListServlet</servlet-name>
+    <servlet-class>com.wit.servlets.TypeInfoListServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ImageUpdateServlet</servlet-name>
+    <servlet-class>com.wit.servlets.ImageUpdateServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>FindBackPwServlet</servlet-name>
+    <servlet-class>com.wit.servlets.FindBackPwServlet</servlet-class>
+  </servlet>
+
+
+
+  <servlet-mapping>
+    <servlet-name>AllInfoListServlet</servlet-name>
+    <url-pattern>/AllInfoListServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AllMthingListServlet</servlet-name>
+    <url-pattern>/AllMthingListServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TnumInfoListServlet</servlet-name>
+    <url-pattern>/TnumInfoListServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TypeMthingListServlet</servlet-name>
+    <url-pattern>/TypeMthingListServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NoInfoListServlet</servlet-name>
+    <url-pattern>/NoInfoListServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>IngInfoListServlet</servlet-name>
+    <url-pattern>/IngInfoListServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>YesInfoListServlet</servlet-name>
+    <url-pattern>/YesInfoListServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>NoMthingServlet</servlet-name>
+    <url-pattern>/NoMthingServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>IngMthingListServlet</servlet-name>
+    <url-pattern>/IngMthingListServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>YesMthingListServlet</servlet-name>
+    <url-pattern>/YesMthingListServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>MthingUpdateServlet</servlet-name>
+    <url-pattern>/MthingUpdateServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SignalUpdateServlet</servlet-name>
+    <url-pattern>/SignalUpdateServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>MthingAddServlet</servlet-name>
+    <url-pattern>/MthingAddServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>MthingDeleteServlet</servlet-name>
+    <url-pattern>/MthingDeleteServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UserAddServlet</servlet-name>
+    <url-pattern>/UserAddServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UserListServlet</servlet-name>
+    <url-pattern>/UserListServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>SnumUserListServlet</servlet-name>
+    <url-pattern>/SnumUserListServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UserUpdateServlet</servlet-name>
+    <url-pattern>/UserUpdateServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UserDeleteServlet</servlet-name>
+    <url-pattern>/UserDeleteServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>LoginServlet</servlet-name>
+    <url-pattern>/LoginServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>AdmUpdateUserServlet</servlet-name>
+    <url-pattern>/AdmUpdateUserServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ApplyServlet</servlet-name>
+    <url-pattern>/ApplyServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TimeMthingListServlet</servlet-name>
+    <url-pattern>/TimeMthingListServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TimeInfoListServlet</servlet-name>
+    <url-pattern>/TimeInfoListServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>TypeInfoListServlet</servlet-name>
+    <url-pattern>/TypeInfoListServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ImageUpdateServlet</servlet-name>
+    <url-pattern>/ImageUpdateServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>FindBackPwServlet</servlet-name>
+    <url-pattern>/FindBackPwServlet</url-pattern>
+  </servlet-mapping>	
+  <welcome-file-list>
+    <welcome-file>index.jsp</welcome-file>
+  </welcome-file-list>
+    <filter>
+        <filter-name>LoginFilter</filter-name>
+        <filter-class>com.wit.filters.LoginFilter</filter-class>
+    </filter>
+    <filter-mapping>
+        <filter-name>LoginFilter</filter-name>
+        <url-pattern>*.jsp</url-pattern>
+    </filter-mapping>
+</web-app>

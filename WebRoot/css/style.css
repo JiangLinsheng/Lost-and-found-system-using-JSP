@@ -1,0 +1,60 @@
+/* CSS Document */
+
+@CHARSET "UTF-8";
+
+h1{
+	color:white;
+	font-family:»ªÎÄÐÐ¿¬;
+	font-size:50px;
+	text-align:center
+}
+
+h2{
+	color:white;
+	font-family:»ªÎÄÐÐ¿¬;
+	font-size:30px;
+	text-align:center
+}
+
+.tablestyle1{
+	width:100%; 
+	border-radius:5px
+}
+
+.tablestyle2{
+	width: 200px;
+	height:100px
+}
+
+.text1{
+	font-size:17px;
+	font-family:Î¢ÈíÑÅºÚ
+}
+
+.input1{
+	font-size:17px;
+	width:350px;
+	height:40px;
+	line-height:40px;
+	border:1px solid #66B3FF
+}
+
+.input2{
+	width:180px;
+	height:20px;
+	border:1px solid #66B3FF
+}
+
+.button1{
+	width:350px;
+	height:50px;
+	background-color:#00BB00;
+	color:white;
+	font-size:17px;
+	font-family:Î¢ÈíÑÅºÚ
+}
+
+a{
+	text-decoration:none;
+	font-family:Î¢ÈíÑÅºÚ
+}
